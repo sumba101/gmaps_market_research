@@ -17,10 +17,7 @@ A powerful tool for conducting market research using Google Places API. This das
 
 Watch this quick demo to see the dashboard in action:
 
-<video width="100%" controls>
-  <source src="demo.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+[demo.webm](https://github.com/user-attachments/assets/472dd537-e5b4-49fa-b877-03b83c2a0322)
 
 ## Prerequisites
 
