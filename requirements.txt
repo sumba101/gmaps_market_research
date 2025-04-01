@@ -1,0 +1,6 @@
+googlemaps==4.10.0
+streamlit
+pandas
+altair
+aiohttp
+python-dotenv
